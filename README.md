@@ -1,5 +1,5 @@
 # Drosera_Update-RPC
-*first go to Alchemy https://dashboard.alchemy.com/ and get a Holesky RPC
+*first go to Alchemy https://dashboard.alchemy.com/ and Create a new App, Copy the Holskey URL
 ```
 # open your vps
 
