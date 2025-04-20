@@ -67,3 +67,6 @@ sudo systemctl start drosera
 Blocks starts to get green 
 
 done!
+
+![Drosera](https://github.com/user-attachments/assets/c634f3e8-323d-492d-8b05-304fb767c300)
+
