@@ -63,6 +63,10 @@ sudo systemctl enable drosera
 # start systemd
 sudo systemctl start drosera
 ```
+### 6-2-3: Check Node Health
+```console
+journalctl -u drosera.service -f
+```
 # wait 10 min
 Blocks starts to get green 
 
